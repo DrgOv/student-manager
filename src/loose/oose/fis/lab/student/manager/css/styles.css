@@ -31,3 +31,31 @@
    -fx-background-insets: 0;
    -fx-background-radius: 1;
 }
+
+.root-pane {
+   -fx-background-color: #292929;
+}
+
+.label {
+   -fx-font-size: 16px;
+   -fx-font-weight: bolder;
+   -fx-text-fill: #ffffff;
+}
+
+#title-text {
+   -fx-font-size: 40px;
+   -fx-font-family: "Gill Sans";
+   -fx-fill: #ffffff;
+}
+
+#actionTarget {
+   -fx-fill: red;
+   -fx-font-weight: bold;
+}
+
+.button {
+   -fx-text-fill: white;
+   -fx-font-family: "Gill Sans";
+   -fx-font-weight: bold;
+ }
+
